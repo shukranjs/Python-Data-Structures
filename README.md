@@ -16,5 +16,5 @@ Welcome to the Python Data Structures repository! This comprehensive collection 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Python-Data-Structures.git
+   git clone https://github.com/shukranjs/Python-Data-Structures.git
 
