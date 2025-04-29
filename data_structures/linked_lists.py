@@ -123,7 +123,7 @@ class CircularLinkedList:
             new_node.next = self.head
 
     def prepend(self, data: Any) -> None:
-        new_node = CircularNode(data)  # Updated the class name here
+        new_node = CircularNode(data)
         if self.head is None:
             new_node.next = new_node
             self.head = new_node
